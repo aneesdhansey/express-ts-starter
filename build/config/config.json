@@ -1,0 +1,12 @@
+{
+    "test" : {
+        "PORT": 4200,
+        "MONGODB_URI": "mongodb://btrackeruser:Password1!@localhost:27017/business-tracker-test",
+        "JWT_SECRET": "XKDHEO8JDLD2Y0LOEDLDWEIOKXDFWEROIFXHCIUALHUYSDUCZCOIWHCDHIWFH"
+    },
+    "development": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://btrackeruser:Password1!@localhost:27017/business-tracker-dev",
+        "JWT_SECRET": "LPRORJF2K6F9S2MXvYIWUEKEF932KHJHCSIUC08HJHSJH9SKFH93R83KIU03H"
+    }
+}
